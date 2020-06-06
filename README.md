@@ -1,2 +1,2 @@
 # Grocery-Store
-Grocery store 
+Grocery shop online ecommerce website build using html, css, reactJS
